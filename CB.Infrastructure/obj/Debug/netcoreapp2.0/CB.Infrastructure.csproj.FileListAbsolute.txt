@@ -1,0 +1,22 @@
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.deps.json
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.pdb
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.AssemblyInfo.cs
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.pdb
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.ApplicationCore.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.ApplicationCore.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.deps.json
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.Infrastructure.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.ApplicationCore.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\bin\Debug\netcoreapp2.0\CB.ApplicationCore.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.AssemblyInfo.cs
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.Infrastructure\obj\Debug\netcoreapp2.0\CB.Infrastructure.pdb

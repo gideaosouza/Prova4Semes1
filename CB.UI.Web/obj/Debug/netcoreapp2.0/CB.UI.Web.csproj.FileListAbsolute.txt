@@ -1,0 +1,32 @@
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.deps.json
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.runtimeconfig.json
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.runtimeconfig.dev.json
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.pdb
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.csproj.CoreCompileInputs.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.AssemblyInfoInputs.cache
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.AssemblyInfo.cs
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.pdb
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.ApplicationCore.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.Infrastructure.pdb
+C:\Users\Gideao\source\repos\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.ApplicationCore.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.deps.json
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.runtimeconfig.json
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.runtimeconfig.dev.json
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.UI.Web.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.ApplicationCore.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.Infrastructure.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.Infrastructure.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\bin\Debug\netcoreapp2.0\CB.ApplicationCore.pdb
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.csproj.CoreCompileInputs.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.AssemblyInfoInputs.cache
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.AssemblyInfo.cs
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.dll
+C:\Users\Gideao\Source\Repos\Projetinhos Interessantes\ContaBancaria\CB.UI.Web\obj\Debug\netcoreapp2.0\CB.UI.Web.pdb
